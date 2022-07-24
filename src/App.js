@@ -33,6 +33,7 @@ const App = () => {
   return (
     <>
       <Resturant />
+      <h1>Testing for second commit on github</h1>
       {/* <div>
         {count} <button onClick={incrementFn}>Increment</button> <button onClick={decrementFn}>Decrement</button>
       </div>
